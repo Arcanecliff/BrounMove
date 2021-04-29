@@ -1,0 +1,10 @@
+C:\Users\Professional\source\repos\BrounMove\BrounMove\bin\Debug\BrounMove.exe.config
+C:\Users\Professional\source\repos\BrounMove\BrounMove\bin\Debug\BrounMove.exe
+C:\Users\Professional\source\repos\BrounMove\BrounMove\bin\Debug\BrounMove.pdb
+C:\Users\Professional\source\repos\BrounMove\BrounMove\obj\Debug\BrounMove.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\BrounMove\BrounMove\obj\Debug\BrounMove.Form1.resources
+C:\Users\Professional\source\repos\BrounMove\BrounMove\obj\Debug\BrounMove.Properties.Resources.resources
+C:\Users\Professional\source\repos\BrounMove\BrounMove\obj\Debug\BrounMove.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\BrounMove\BrounMove\obj\Debug\BrounMove.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\BrounMove\BrounMove\obj\Debug\BrounMove.exe
+C:\Users\Professional\source\repos\BrounMove\BrounMove\obj\Debug\BrounMove.pdb
